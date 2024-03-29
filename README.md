@@ -3,6 +3,7 @@
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkvaessen%2Frevanced-magisk-modulee.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkvaessen%2Frevanced-magisk-modulee?ref=badge_shield)
 
 Extensive ReVanced builder  
 
@@ -51,3 +52,7 @@ $ git clone https://github.com/j-hc/revanced-magisk-module
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkvaessen%2Frevanced-magisk-modulee.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkvaessen%2Frevanced-magisk-modulee?ref=badge_large)
